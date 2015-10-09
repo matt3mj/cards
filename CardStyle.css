@@ -4,11 +4,17 @@ article {
   border-style: solid;
   border-width: 1px;
   height: 20%;
-  margin-left: 30%;
+  margin-left: 32%;
   margin-top: 5%;
   padding: 2rem;
-  width: 40%;
+  width: 30%;
 }
 footer {
   text-align: center;
+}
+h1 {
+  text-align: center;
+}
+body {
+  background-color: #C8C8C8
 }
